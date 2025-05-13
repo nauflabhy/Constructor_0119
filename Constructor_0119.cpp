@@ -11,5 +11,5 @@ mahasiswa::mahasiswa(){
 };
 
 int main (){
-    
+    mahasiswa mhs;
 }
